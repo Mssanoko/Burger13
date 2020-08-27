@@ -2,7 +2,7 @@ var express = require("express");
 var app = express();
 var exphbs = require("express-handlebars");
 var bodyParser = require ("body-parser");
-var PORT = process.env.PORT || 3036;
+var PORT = process.env.PORT || 3306;
 
 
 // Parse application body as JSON
