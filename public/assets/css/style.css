@@ -1,0 +1,43 @@
+
+body {
+	background-color: yellow;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h1 {
+    color: rgb(11, 110, 110);
+    text-align: center;
+    
+}
+
+h4 {
+	color: rgb(11, 110, 110);
+}
+
+img {
+	width: 200px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+}
+.row1 {
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+}
+.row1 p {
+	text-align: center;
+	padding-top: 25px;
+}
+.row {
+	margin-left: 150px;
+}
+.formClass {
+    margin-right: 150px;
+}
+.btn {
+	background-color: rgb(224, 14, 14);
+	margin-left: 100px;
+}
